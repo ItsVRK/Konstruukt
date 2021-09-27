@@ -1,7 +1,7 @@
 # About Konstruukt
 
 - 👋 Hi, I’m @Konstruukt, a Maker and content creator from Australia 🇦🇺
-- 👀 I’m interested in so many thinks, but here I will be mainly uploading resources for my viewing audience
+- 👀 I’m interested in so many things, but here I will be mainly uploading resources for my viewing audience
 - 🌱 I’m currently working on improving my video editing skills
 - 💞️ I’m looking to collaborate on VR related things, and beta test games
 - 📫 You can reach me via the Konstruukt Discord server <https://discord.gg/Fv3buZ92pJ> or Twitter [@Konstruukt](https://twitter.com/konstruukt)
